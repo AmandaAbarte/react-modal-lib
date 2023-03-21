@@ -1,7 +1,7 @@
 # Simple Modal Component Library
 
 ## Installation 
-Run the following command:`npm install simple-component-library`
+Run the following command:`npm i @amandaabarte/react-modal-lib`
 
 ## Examples
 You can find an example of usage in "/src/examples"
