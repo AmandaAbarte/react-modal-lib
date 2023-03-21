@@ -1,2 +1,3 @@
-import TextInput from "./TextInput";
-export { TextInput };
+import Modal from "./modal";
+
+export {Modal}
