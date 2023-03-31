@@ -1,4 +1,5 @@
 # Simple Modal Component Library
+https://www.npmjs.com/package/@amandaabarte/react-modal-lib
 
 ## Installation 
 Run the following command:`npm i @amandaabarte/react-modal-lib`
